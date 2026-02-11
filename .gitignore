@@ -1,0 +1,18 @@
+# Zig build artifacts
+zig-cache/
+zig-out/
+
+# Config files
+config.json
+.picoz/
+
+# OS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
