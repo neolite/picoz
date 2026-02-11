@@ -37,7 +37,7 @@ Originally, [PicoClaw](https://github.com/sipeed/picoclaw) (Go) was already 99% 
 
 ### Download Binary
 
-Check [Releases](https://github.com/YOUR_USERNAME/picoz/releases) for pre-built binaries:
+Check [Releases](https://github.com/neolite/picoz/releases) for pre-built binaries:
 - Linux x86_64
 - Linux ARM64  
 - Linux RISC-V
@@ -49,7 +49,7 @@ Check [Releases](https://github.com/YOUR_USERNAME/picoz/releases) for pre-built 
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/picoz.git
+git clone https://github.com/neolite/picoz.git
 cd picoz
 
 # Build
@@ -260,7 +260,7 @@ This is a learning project. PRs welcome for:
 
 - **Original PicoClaw**: https://github.com/sipeed/picoclaw
 - **Zig Language**: https://ziglang.org/
-- **Releases**: https://github.com/YOUR_USERNAME/picoz/releases
+- **Releases**: https://github.com/neolite/picoz/releases
 
 ---
 
